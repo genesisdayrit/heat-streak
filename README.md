@@ -8,5 +8,5 @@ Users will upload data in csv form with the following format:
 - Date
 - Activity Count (e.g. tweets, posts, etc.)
 
-Users will also be able to embed their heatstreeak on personal webpages to show how they're doing with activities that they are proud of. 
+Users will also be able to embed their heat streak on personal webpages to show how they're doing with activities that they are proud of. 
 
